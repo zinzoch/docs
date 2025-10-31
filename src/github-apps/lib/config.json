@@ -1,4 +1,4 @@
-{
+src/webhooks/lib/config.json{
   "targetDirectory": "content/rest/authentication",
   "pages": {
     "server-to-server-rest": {
